@@ -7,6 +7,7 @@ https://github.com/rambeldkar/contact
 - then install react-router-dom
 - then run 
 - install json-server
+- install concurrently
 - created db.json
 - install axios
 
