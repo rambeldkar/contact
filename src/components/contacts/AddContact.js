@@ -8,7 +8,7 @@ export const Add = () => {
     const params = useParams();
     useEffect(() => {
         getPost();
-    }, [params.id]);
+    }, []);
 
     const formSubmit = (event) => {
         event.preventDefault();
